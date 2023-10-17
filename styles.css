@@ -1,7 +1,60 @@
 body {
-    background-color: black;
+    background-image: url("Images/img1.jpg");
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+
 }
 
-.navbar-expand-sm {
-    background-color: rgb(249, 97, 122);
+.navbar {
+    width: 100%;
+    background-color: #000626cd ;
+    padding-top: 0;
+    
+}
+.container-fluid { 
+    width: 100%;
+}
+
+.navbar-collapse {
+    flex-grow: 0;
+}
+
+    .nav-item {
+        margin-right: 20px;
+        text-indent: 70px;
+        font-size: 23px;
+    }
+
+    .logo {
+        width: 50%;
+       
+    }
+
+    @media (max-width: 1980px) {
+        .nav-item {
+            font-size: 20px;
+        }
+    }
+
+
+    @media (max-width: 768px) {
+        .navbar-brand {
+            width: 70%;
+        }
+    }
+
+    @media (max-width: 320px) {
+        .navbar-brand {
+            display: none;
+        }
+
+    .navbar-toggler {
+        margin-top: 20px;
+    }
+
+    body {
+        background-size: cover;
+    }
 }
