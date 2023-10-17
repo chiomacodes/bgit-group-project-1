@@ -1,7 +1,11 @@
 body {
-    background-color: black;
+    background-color: rgb(92, 194, 192);
 }
 
 .navbar-expand-sm {
     background-color: rgb(249, 97, 122);
+}
+
+p {
+    text-align: center;
 }
