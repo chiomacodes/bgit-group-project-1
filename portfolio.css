@@ -1,0 +1,132 @@
+/* Reset some default styles */
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Your-Bold-Fun-Font', sans-serif;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000046;
+    margin: 0;
+    padding: 0;
+}
+
+/* Portfolio Logo styles */
+.logo-container {
+    text-align: center;
+    padding: 2rem;
+}
+
+.x-large-logo {
+    font-size: 3rem;
+    color: hotpink;
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: #000046;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.navbar ul {
+    list-style: none;
+}
+
+.navbar ul li {
+    display: inline-block;
+}
+
+.navbar-link {
+    text-decoration: none;
+    font-size: 1.8rem;
+    color: white;
+    padding: 1rem;
+    margin: 0 10px;
+    transition: text-decoration 0.2s; /* Smooth underline transition */
+}
+
+.navbar-link:hover {
+    text-decoration: underline;
+}
+
+/* CSS Grid styles for the album covers */
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px; 
+}
+
+.album-cover {
+    width: 100%;
+    height: 200px;
+    background-color: #333;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* Remove the hover scaling effect on album covers */
+.album-cover:hover {
+    transform: none;
+}
+
+
+.album-link {
+    text-decoration: none;
+}
+
+
+.album-cover:nth-child(1) {
+    background-image: url('album1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* Add similar styles for other album covers */
+.album-cover:nth-child(2) {
+    background-image: url('album1.jpg');
+}
+
+.album-cover:nth-child(3) {
+    background-image: url('album1.jpg');
+}
+
+.album-cover:nth-child(4) {
+    background-image: url('album1.jpg');
+}
+
+.album-cover:nth-child(5) {
+    background-image: url('album1.jpg');
+}
+
+.album-cover:nth-child(6) {
+    background-image: url('album1.jpg');
+}
+
+.album-cover:nth-child(7) {
+    background-image: url('album1.jpg');
+}
+
+.album-cover:nth-child(8) {
+    background-image: url('album1.jpg');
+}
+
+
+footer {
+    text-align: center;
+    padding: 20px 0; 
+}
+
+.social-media a {
+    text-decoration: none;
+}
