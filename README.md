@@ -5,7 +5,7 @@ Chioma was responsible for creating and designing the About page. Chioma also cr
 Nina was responsible for creating and designing the Homepage and Contact form.
 Abi was responsible for creating and designing the Portfolio page.
 
-From the start of the assignment, all three developers had a synonymous idea of what type of musician we wanted Emily to represent. Research, resources and inspiration came primarily from Doja Cat and Dua Lipa's websites. Both websites have bold colours but their overall look was crisp and minimal. This was exciting and we were eager to replicate that vibe in our own way. 
+From the start of the assignment, all three developers had a synonymous idea of what type of musician they wanted Emily to represent. Research, resources and inspiration came primarily from Doja Cat and Dua Lipa's websites. Both websites have bold colours but their overall look was crisp and minimal. This was exciting and we were eager to replicate that vibe in our own way. 
 
 Various questions were asked about what type of musician Emily is, where she is in her career, and therefore, how the website would serve her most efficiently. We put our heads together to think like the client and inference what they want this website to do for them. We were highly aware that as a front-facing professional, image is important and this will be their first port of call, after a business card that needs to sell them succinctly.
 
